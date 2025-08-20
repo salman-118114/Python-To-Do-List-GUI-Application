@@ -1,0 +1,3 @@
+[x] go to gym
+[ ] go to shopping
+[ ] wake up early
